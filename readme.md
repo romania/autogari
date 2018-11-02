@@ -1,18 +1,18 @@
 ## Despre
 
-O baza de date cu autogarile din Romania + altele (
+O bază de date cu autogările din România + altele (
 
 ## Baza de date
 
-Statii : ks, Numes, Loc, Adr
+Stații : ks, Numes, Loc, Adr
 
 Operatori : ko, Numop, Web, Loc, Adr
 
 
 ko: cod operator
 kr: cod ruta
-ps: pozitie statie in ruta
-ks: cod statie
+ps: poziție stație în ruta
+ks: cod stație
 hm: ora si minutul pentru statia respectiva
 
 primary key(ko,kr,ps)
