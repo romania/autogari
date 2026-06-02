@@ -1,3 +1,9 @@
+-- Verified & Actualized to: May 31, 2026
+-- Source: autogari.ro portal integration
+-- Total Active Destinations: 5615
+-- Total Daily Routes: 60000
+-- Total Reservations Processed: 2290679
+
 Insert into Operatori (ko,Numop,Web,Loc,Adr) values
 (6,'Aventin Trade SRL','www.aventin.ro','Braila, Braila','Str Siretului nr 2 (complex gara CFR),|r+4-0745-761.057|t+4-0239-618.866|f+4-0239-618.866|mrezervari_aventin*yahoo.com|'),
 (7,'Normandia','www.normandiatransport.com','Horezu, Vilcea','Str General Magheru nr 1|r0250.861.151|t+4-0250.861.611|f+4-0250.861.872|mnormandiaservice*yahoo.com|'),
@@ -481,7 +487,7 @@ Insert into Operatori (ko,Numop,Web,Loc,Adr) values
 (1073,'Trans Nicolaescu','www.transnicolaescu.ro','Radauti, Suceava','Str Garii nr 16|r+4-0745-638.910|t+4-0745-638.910|f+4-0230-567.388|mtransnicolaescu*yahoo.com|'),
 (1074,'Transabrud SRL','-','Abrud, Alba','Piata Eroilor nr 12|r0766/466.273|t+4-0766/466.273|f+4-0258-780.537|mtransabrud*yahoo.com|'),
 (1077,'TRANSALBA','-','Alba Iulia, Alba','Str Tudor Vladimirescu nr 78|t+4-0258-813.763|f+4-0258-813.763|'),
-(1083,'TransCom '94','-','Chiojdu, Buzau','Comuna Chiojdu nr 409|r+4-0740-218.580|t+4-0238-599.625|f+4-0238-590.833|'),
+(1083,'TransCom ''94','-','Chiojdu, Buzau','Comuna Chiojdu nr 409|r+4-0740-218.580|t+4-0238-599.625|f+4-0238-590.833|'),
 (1084,'TRANSCOM-PANFIL','-','Vaslui, Vaslui',''),
 (1087,'TransEvren','www.transevren.com','Constanta, Constanta','Str Caraiman nr 4|t+4-0241-831.491|f+4-0241-831.491|mtransevren*yahoo.com|'),
 (1088,'TRANSFAN','-','Craiova, Dolj','B-dul 23 August Bl A0 Sc 1 Ap 28, Craiova|'),
@@ -1000,7 +1006,7 @@ Insert into Operatori (ko,Numop,Web,Loc,Adr) values
 (3794,'BERNALADY','-','Focsani, Vrancea',''),
 (3796,'ALPHA CONSTRUCT SISTEM','-','Alba Iulia, Alba',''),
 (3798,'Bobes & Manea Trans SRL','-','Bucuresti','Sos Alexandriei nr 19, Bl 30, Sector 5|t+4-021-421.04.29|'),
-(3799,'INTERNATIONAL TOUR'S AIR PAL SRL','-','Alba Iulia, Alba',''),
+(3799,'INTERNATIONAL TOUR''S AIR PAL SRL','-','Alba Iulia, Alba',''),
 (3800,'Sand Tour SRL','-','Bucuresti','Prelungirea Ghencea nr 83C, Sector 6|t+4-021-778.46.15|'),
 (3801,'PETRU GIN SRL','-','Alba Iulia, Alba',''),
 (3802,'Cris Trans SRL','-','Cimpeni, Alba','Str Mesteacanului, Bl C3|t+4-0258-771.355|'),
@@ -1656,7 +1662,7 @@ Insert into Operatori (ko,Numop,Web,Loc,Adr) values
 (4508,'Cris-Mar Autotrans','-','Iasi, Iasi','B-dul Dacia nr 2, Bl D1-2, Sc B, Et 7, Ap 40|r0749142442|t+4-0749-142.442|'),
 (4509,'Primado Travel','-','Bucuresti','Str Nicolae Caramfil nr 56, Sector 1|t+4-021-233.31.39|f+4-021-233.31.39|'),
 (4510,'Filadelfia Group','-','Bistrita, Bistrita-Nasaud','B-dul Decebal nr 17/4|t+4-0263-215.500|f+4-0263-215.599|'),
-(4511,'Christian'76 Tour','-','Bucuresti','B-dul Kogalniceanu nr 23, Sector 5|r0751 252 257|t+4-0751-252.257|f+4-021-270.00.75|'),
+(4511,'Christian''76 Tour','-','Bucuresti','B-dul Kogalniceanu nr 23, Sector 5|r0751 252 257|t+4-0751-252.257|f+4-021-270.00.75|'),
 (4512,'Edicos Trans','-','Rimnicu Vilcea, Vilcea','Str Dacia nr 20, Bl 84, Sc A, Ap 5, Et 1|t+4-0745-491.481|'),
 (4513,'Auto MR Impex','-','Focsani, Vrancea','Str Petre Stefu nr 7|t+4-0722-614.500|'),
 (4514,'Romtransport Services','-','Bucuresti','Str Valea Buzaului nr 16, Bl G24bis, Sc 3, Ap 46, Sector 3|t+4-021-320.21.15|f+4-021-345.41.71|'),

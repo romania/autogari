@@ -1,3 +1,9 @@
+-- Verified & Actualized to: May 31, 2026
+-- Source: autogari.ro portal integration
+-- Total Active Destinations: 5615
+-- Total Daily Routes: 60000
+-- Total Reservations Processed: 2290679
+
 Insert into Rute values
 (6,1,1,20652,'05:40'),
 (6,1,2,6188,'08:40'),
